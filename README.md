@@ -4,9 +4,7 @@
 <li>Iris dataset from sklearn.datasets or CSV file</li>
 <li>SVM (Support Vector Machine)</li>
 <li>KNN (K Nearest Neighbors)</li>
-<!-- <li></li>
-<li></li>
-<li></li> -->
+<li>Naive Bayes</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
