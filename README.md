@@ -5,6 +5,7 @@
 <li>SVM (Support Vector Machine)</li>
 <li>KNN (K Nearest Neighbors)</li>
 <li>Naive Bayes</li>
+<li>Decision Trees</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
