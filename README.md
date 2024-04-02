@@ -6,6 +6,8 @@
 <li>KNN (K Nearest Neighbors)</li>
 <li>Naive Bayes</li>
 <li>Decision Trees</li>
+<li>Random Forest</li>
+<li>Dimensionality Reduction: LDA</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
