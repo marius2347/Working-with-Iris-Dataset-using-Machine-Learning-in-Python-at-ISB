@@ -6,8 +6,9 @@
 <li>KNN (K Nearest Neighbors)</li>
 <li>Naive Bayes</li>
 <li>Decision Trees</li>
-<li>Random Forest</li>
+<li>Random Forest Classifier</li>
 <li>Dimensionality Reduction: LDA</li>
+<li>GridSearchCV</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
