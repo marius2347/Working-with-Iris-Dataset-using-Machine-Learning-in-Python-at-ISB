@@ -9,6 +9,11 @@
 <li>Random Forest Classifier</li>
 <li>Dimensionality Reduction: LDA</li>
 <li>GridSearchCV</li>
+<li>XGBoost Classifier</li>
+<li>DBSCAN Clustering</li>
+<li>K-Means</li>
+<li>silhouette_score, calinski_harabasz_score & adjusted_rand_score</li>
+<li>PCA</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
