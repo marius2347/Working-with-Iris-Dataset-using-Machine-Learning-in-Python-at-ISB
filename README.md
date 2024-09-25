@@ -1,4 +1,4 @@
-<h1>Knowledge Based Systems - ML Course Python Project</h1>
+<h1>Working with Iris Dataset using Machine Learning in Python</h1>
 <br>
 <h2>Features</h2>
 <li>Iris dataset from sklearn.datasets or CSV file</li>
