@@ -1,4 +1,4 @@
-<h1>Working with Iris Dataset using Machine Learning in Python</h1>
+<h1>Working with Iris Dataset using Machine Learning in Python at ISB</h1>
 <br>
 <h2>Features</h2>
 <ul>
